@@ -1,0 +1,13 @@
+c:\users\melvinl\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\obj\Debug\AntMiner Controll.csprojResolveAssemblyReference.cache
+c:\users\melvinl\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\obj\Debug\AntMiner_Controll.Form1.resources
+c:\users\melvinl\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\obj\Debug\AntMiner_Controll.Properties.Resources.resources
+c:\users\melvinl\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\obj\Debug\AntMiner Controll.csproj.GenerateResource.Cache
+c:\users\melvinl\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\bin\Debug\WinSCP.exe
+c:\users\melvinl\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\bin\Debug\Renci.SshNet.dll
+c:\users\melvinl\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\bin\Debug\WinSCPnet.dll
+c:\users\melvinl\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\bin\Debug\Renci.SshNet.xml
+C:\Users\MelvinL\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\bin\Debug\AntMiner Controller.exe.config
+C:\Users\MelvinL\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\bin\Debug\AntMiner Controller.exe
+C:\Users\MelvinL\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\bin\Debug\AntMiner Controller.pdb
+C:\Users\MelvinL\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\obj\Debug\AntMiner Controller.exe
+C:\Users\MelvinL\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\obj\Debug\AntMiner Controller.pdb
