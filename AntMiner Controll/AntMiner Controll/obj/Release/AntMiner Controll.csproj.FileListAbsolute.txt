@@ -11,3 +11,16 @@ C:\Users\MelvinL\documents\visual studio 2015\Projects\AntMiner Controll\AntMine
 C:\Users\MelvinL\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\bin\Release\AntMiner Controller.pdb
 C:\Users\MelvinL\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\obj\Release\AntMiner Controller.exe
 C:\Users\MelvinL\documents\visual studio 2015\Projects\AntMiner Controll\AntMiner Controll\obj\Release\AntMiner Controller.pdb
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\bin\Release\AntMiner Controller.exe.config
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\obj\Release\AntMiner Controller.exe
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\obj\Release\AntMiner Controller.pdb
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\bin\Release\WinSCP.exe
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\bin\Release\AntMiner Controller.exe
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\bin\Release\AntMiner Controller.pdb
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\bin\Release\Renci.SshNet.dll
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\bin\Release\WinSCPnet.dll
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\bin\Release\Renci.SshNet.xml
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\obj\Release\AntMiner Controll.csprojResolveAssemblyReference.cache
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\obj\Release\AntMiner_Controll.Form1.resources
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\obj\Release\AntMiner_Controll.Properties.Resources.resources
+C:\Users\MelvinL\Documents\GitHub\AntminerController\AntMiner Controll\AntMiner Controll\obj\Release\AntMiner Controll.csproj.GenerateResource.Cache

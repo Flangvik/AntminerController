@@ -44,7 +44,7 @@ namespace AntMiner_Controll
 
                     TransferOperationResult transferResult;
                     transferResult =
-                        session.PutFiles(file, "/config/cgminer.conf", true, transferOptions);
+                        session.PutFiles(file, "/config/cgminer.conf", false, transferOptions);
 
                     // Throw on any error
                     transferResult.Check();

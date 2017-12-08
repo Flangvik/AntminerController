@@ -52,7 +52,7 @@ namespace AntMiner_Controll
     
 
             LogText.AppendText(log + "\n");
-        
+            LogText.Update();
             
         }
 
@@ -117,7 +117,7 @@ namespace AntMiner_Controll
             {
                 fan = "true";
             }
-            if (MinerListBox.Items.Count > 0)
+            if (MinerListBox.SelectedItems.Count > 0)
             {
 
                
@@ -130,11 +130,10 @@ namespace AntMiner_Controll
                 UpdateTextBox("Generating config " + tempfile);
 
 
-                // foreach (string IP in MinerListBox.SelectedItem)
-                //{
+           
                 foreach (string IP in MinerListBox.SelectedItems)
                 {
-                    Form1.gui.UpdateTextBox("Checking if " + IP + " is alive");
+                    WriteLog("Checking if " + IP + " is alive");
                     Ping ping = new Ping();
                     PingReply pingReply = ping.Send(IP);
 
@@ -144,10 +143,10 @@ namespace AntMiner_Controll
                         try
                         {
                             tcpClient.Connect(IP, 22);
-                            Form1.gui.UpdateTextBox("Connecting to: " + IP);
+                            WriteLog("Connecting to: " + IP);
                             Communication.WriteConfig(IP, UsernameText.Text.Trim(), PasswordText.Text.Trim(), tempfile);
 
-                            Form1.gui.UpdateTextBox("Done -> Restarting miner");
+                            WriteLog("Done -> Restarting miner");
                             using (var client = new SshClient(IP, UsernameText.Text.Trim(), PasswordText.Text.Trim()))
                             {
                                 client.Connect();
@@ -158,13 +157,13 @@ namespace AntMiner_Controll
                         }
                         catch (Exception)
                         {
-                            Form1.gui.UpdateTextBox("SSH service is not running on " +IP);
+                            WriteLog("SSH service is not running on " +IP);
                         }
                         
                     }
                     else
                     {
-                        UpdateTextBox("IP: " + IP + " Seems to be unreachable");
+                        WriteLog("IP: " + IP + " Seems to be unreachable");
                     }
                 }
 
